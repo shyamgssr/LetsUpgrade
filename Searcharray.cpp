@@ -21,6 +21,6 @@ for(i= 0 ; i<=5 ; i++)
 if (i == 6) 
 {
 
-cout << "Number not found " << i  ;
+cout << "Number not found "   ;
 }
 }
